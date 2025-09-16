@@ -1,33 +1,32 @@
-[![pages-build-deployment](https://github.com/salim-benhamadi/salim-benhamadi.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/salim-benhamadi/salim-benhamadi.github.io/actions/workflows/pages/pages-build-deployment)
 
-# Salim Benhamadi
+# Jawad Asif
 
-👋 Hi there! I'm a Machine Learning Engineer specializing in computer vision, deep learning, and data science. Currently pursuing my Master's degree in ICT Internet and Multimedia Engineering at the University of Padova.
+Hello! 👋 I’m Jawad Asif, a Machine Learning and Artificial Intelligence Engineer specializing in Generative AI, NLP, Deep Learning, and Cloud Computing. I hold a Google Professional Machine Learning Engineer certification, and my work focuses on building advanced systems with Agentic Retrieval-Augmented Generation (RAG) and the Model Context Protocol (MCP) to create scalable, intelligent applications that reason, retrieve, and act with context awareness. With strong expertise in data acquisition, cleansing, modeling, and deployment, I’m passionate about transforming complex data into impactful solutions and pushing the boundaries of what’s possible with modern AI.
+            
 
 ## 🎓 Education
 
-- MSc in ICT Internet and Multimedia Engineering, University of Padova (2025)
-- ICT Engineer's Degree, Higher School of Communications of Tunis (2023)
+- MSc in ICT Internet and Multimedia Engineering, University of Padova (2023)
+- Bachelor of science in Information Technology, The Univerisity of Azad Jammu and Kashmir Muzaffarabad, Kotli Azad Kashmir, Pakistan. (2017)
 
 ## 💼 Experience
 
-- Machine Learning Intern at Infineon Technologies
-- Research Trainee at University of Padova
-- Data Scientist Intern at Prorob
-- Machine Learning Intern at PIxemantic
+- Artificial Intelligence Engineer at Ennova Research Srl, Padova, Italy.
+- Research Internee at University of Dresden, Dresden, Germany.
+- Research Internee at Center of artificial intelligence and robotics, Wurzburg, Germany.
+- Web developer at Netsol, Islamabad, Pakistan
+- Web developer at Ministry of IT and telecome, Islamabd, Pakistan.
 
-## 🏆 Recent Achievements
 
-- Ranked 18th/514 in AirQo African Air Quality Prediction Challenge
-- 1st Prize at AI Hackathon 3.0 - EEG Analysis
-- 2nd Prize at ML Olympiad - Preserving North African Culture
-- 14th/493 in UmojaHack Africa Faulty Sensor Challenge
+
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Salim Benhamadi](https://linkedin.com/in/salimbenhamadi/)
-- GitHub: [@salim-benhamadi](https://github.com/salim-benhamadi)
-- Email: salim.benhamadi@studenti.unipd.it
-- LeetCode: [salim-benhamadi](https://leetcode.com/u/salim-benhamadi/)
-- Kaggle: [salimhammadi07](https://kaggle.com/salimhammadi07)
-# Jawad-Asif.github.io
+- LinkedIn: [Jawad Asif](https://www.linkedin.com/in/jawad-asif-396ba3216/)
+- GitHub: [@Jawad-Asif](https://github.com/Jawad-Asif)
+- Email: urjawadasif1@gmail.com
+- LeetCode: [Jawad Asif](https://leetcode.com/u/Jawad_Asif/)
+
+## Jawad-Asif.github.io
+
+- Website: [Jawad Asif](https://jawad-asif.github.io/)
